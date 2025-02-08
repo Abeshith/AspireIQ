@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+python-dotenv
+fuzzywuzzy
+requests
+huggingface_hub
+huggingface
+langchain
